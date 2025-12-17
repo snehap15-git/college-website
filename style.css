@@ -1,0 +1,153 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+}
+
+nav {
+    background-color: #003366;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background: linear-gradient(to right, #0066cc, #0099ff);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero button {
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    color: #0066cc;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.section {
+    padding: 50px 40px;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #e6f2ff;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+}
+
+nav {
+    background-color: #003366;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 40px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-left: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero {
+    background: linear-gradient(to right, #0066cc, #0099ff);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero button {
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    color: #0066cc;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.section {
+    padding: 50px 40px;
+    text-align: center;
+}
+
+.bg-light {
+    background-color: #e6f2ff;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: white;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-weight: bold;
+}
+
+footer {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
